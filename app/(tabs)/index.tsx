@@ -18,7 +18,7 @@ export default function Index() {
          <View className="flex-start">
          <Text className="font-medium text-primary">DELIVER TO</Text>
           <TouchableOpacity>
-            <Text className="paragraph-bold text-dark-100">Mumbai</Text>
+            <Text className="font-semibold text-dark-100">Mumbai</Text>
           <Image source={images.arrowDown} className="size-4" resizeMode="contain" />
           </TouchableOpacity>
          </View>
